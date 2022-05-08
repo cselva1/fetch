@@ -1,0 +1,70 @@
+{
+  "bbdd":
+    [
+      {
+          "id": 1,
+          "nombre": "Computadora Pc Cpu Solarmax Intel Core I5 10ma 16gb 480g Ssd",
+          "img": "",
+          "precio": 75000,
+          "cantidad": 1
+      },
+      
+      {
+          "id": 2,
+          "nombre": "caca",
+          "img":"",
+          "precio": 1231,
+          "cantidad": 1
+      },
+      
+      {
+          "id": 3,
+          "nombre": "caca",
+          "img":"",
+          "precio": 1231,
+          "cantidad": 1
+      },
+      
+      {
+          "id": 4,
+          "nombre": "caca",
+          "img":"",
+          "precio": 1231,
+          "cantidad": 1
+      },
+      
+      {
+          "id": 5,
+          "nombre": "caca",
+          "img":"",
+          "precio": 1231,
+          "cantidad": 1
+      },
+      
+      {
+          "id": 6,
+          "nombre": "caca",
+          "img":"",
+          "precio": 1231,
+          "cantidad": 1
+      },
+      
+      {
+        "id": 7,
+        "nombre": "caca",
+        "img":"",
+        "precio": 1231,
+        "cantidad": 1
+      },
+      
+      {
+          "id": 8,
+          "nombre": "caca",
+          "img":"",
+          "precio": 1231,
+          "cantidad": 1
+      }
+      ]
+}
+
+
